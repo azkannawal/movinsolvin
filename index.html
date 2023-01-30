@@ -22,7 +22,7 @@
     <div class="pt-14 pb-12 px-6 lg:px-64">
         <div class="container mx-auto">
             <img src="dist/img/movinsolvin.svg" alt="" class="w-2/5 lg:w-1/5 mx-auto mb-14" />
-            <img src="dist/img/vect.svg" alt="" class="w-11/12 lg:w-4/5 mx-auto mb-10 lg:mb-14" />
+            <img src="dist/img/vect.svg" alt="" class="w-full px-2 lg:w-4/5 mx-auto mb-10 lg:mb-14" />
             <div class="iframe-container mb-10">
                 <iframe width="400px" height="225px" src="https://www.youtube.com/embed/AIjw4MKGW70"
                     title="YouTube video player" frameborder="0"
@@ -37,13 +37,8 @@
                     Pesan Sekarang</h1>
             </a>
             <div class="bg-neutral-200 rounded-md pt-5 pb-2 mt-5 mb-5 lg:px-16">
-            <div class="box hidden mx-auto mb-8">
-                <h2 class="text-center text-lg font-bold mb-8">Informasi Produk<span
-                        class="inline-block ml-2"><img src="dist/img/info.png" alt="" class=" h-3"></span></h2>
-            </div>
-            <div class="nobox  mx-auto mb-8">
-                <h2 class="text-center text-lg font-bold mb-5">Informasi Produk<span
-                        class="inline-block ml-2"><img src="dist/img/info.png" alt="" class="h-3"></span></h2>
+            <div class="mx-auto mb-8">
+                <h2 class="text-center text-lg font-bold mb-5">Informasi Produk</h2>
                 <p class="text-justify px-4 mb-5">Semua produk dijual dengan sistem pre-order, maka produk yang dipesan
                     akan kami produksi dahulu
                     maksimal selama 7 hari. Kabar baiknya sering lebih cepat dari waktu tersebut, tergantung jumlah
@@ -77,19 +72,5 @@
             <h1 class="text-center">©️2023 Movinsolvin</h1>
         </div>
     </div>
-    <script>
-        const box = document.querySelector('.box');
-        const nobox = document.querySelector('.nobox');
-
-        box.addEventListener('click', function () {
-            box.classList.toggle('hidden');
-            nobox.classList.toggle('hidden');
-        })
-
-        nobox.addEventListener('click', function () {
-            box.classList.toggle('hidden');
-            nobox.classList.toggle('hidden');
-        })
-    </script>
 </body>
 </html>
