@@ -1,0 +1,18 @@
+<!-- <div class="bg-neutral-200 rounded-md pt-5 pb-2 mt-5 mb-5 lg:px-16">
+                <div class="mx-auto mb-8">
+                    <h2 class="text-center text-lg font-bold mb-5">Informasi Produk</h2>
+                    <p class="text-justify px-4 mb-5">Semua produk dijual dengan sistem pre-order sehingga produk yang dipesan
+                        akan kami produksi dahulu,
+                        maksimal selama 7 hari. Namun, sangat mungkin untuk bisa lebih cepat daripada waktu tersebut, tergantung jumlah
+                        pesanan.</p>
+                    <img src="dist/img/Elmer.png" alt="" class="w-11/12 lg:w-1/2 mx-auto">
+                    <p class="text-center px-2 mb-5 mt-3 font-semibold">Elmer Sandal</p>
+                    <img src="dist/img/Ilvish.png" alt="" class="w-11/12 lg:w-1/2 mx-auto">
+                    <p class="text-center px-2 mb-5 mt-3 font-semibold">Ilvish Sandal</p>
+                    <img src="dist/img/Solana.png" alt="" class="w-11/12 lg:w-1/2 mx-auto">
+                    <p class="text-center px-2 mb-5 mt-3 font-semibold">Solana Sandal</p>
+                    <p class="text-justify px-4 mb-2 lg:text-center">Pilihan warna; Black, Brown, Cinnamon Brown, Grain Blue</p>
+                    <p class="text-justify px-4 mb-5 lg:text-center">Material; Upper corduroy velvet & Eva spons, Outsole rubber</p>
+                    <img src="dist/img/Solanasize.png" alt="" class="w-11/12 lg:w-1/2 mx-auto">
+                </div>
+                </div> -->
