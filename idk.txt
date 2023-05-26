@@ -16,3 +16,11 @@
                     <img src="dist/img/Solanasize.png" alt="" class="w-11/12 lg:w-1/2 mx-auto">
                 </div>
                 </div> -->
+<!-- <h1 class="text-center mb-4 text-2xl lg:text-4xl font font-serif font-medium">Rilisan Pertama</h1>
+            <h1 class="text-center mb-10 text-3xl lg:text-6xl font-bold font-serif ">'The Homie Collection'</h1>
+            <div class="iframe-container mb-10">
+                <iframe width="400px" height="225px" src="https://www.youtube.com/embed/AIjw4MKGW70"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen></iframe>
+            </div> -->
